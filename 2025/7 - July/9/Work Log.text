@@ -1,0 +1,18 @@
+• Developed and initialized the StartInventory() method to populate UI dropdowns for weapons, armor, and accessories based on data from the GameDatabase.
+• Standardized item names to lowercase for consistent internal referencing and lookup operations.
+• Created the SpawnSpells() coroutine to asynchronously instantiate spell UI prefabs, improving visual responsiveness and avoiding frame drops.
+• Implemented logic to auto-detect which spells the player already owns and move them to the "Chosen Spells" section of the interface.
+• Displayed spell metadata (e.g., mana cost, name) and linked memorized status to UI toggle elements.
+• Authored two separate prefab scripts: 
+    - PREFABAllSpellObjectScript (handles user-initiated spell acquisition) 
+    - PREFABPlayerSpellObjectScript (handles user-initiated spell removal)
+• Corrected an off-by-one indexing error during list insertions by adjusting .Count to .Count - 1 when referencing the last element.
+• Connected prefab UI components (TextMeshPro fields, toggles) to corresponding data structures.
+• Prepared toggle handling system for future implementation of spell memorization persistence logic.
+• Fixed missing .gameObject reference in RecievePersonalSpellsClick(), preventing layout errors
+• Repaired multiple prefabs relying on NES Text that weren't properly linked or updating
+• Fixed options menu layout and data sync issues
+• Corrected CC Species screen transition logic (forgot to call the coroutine)
+• Fixed Upgrades screen trying to access the Class List incorrectly
+• Fixed Player dropdown calling the wrong script method
+• Fixed menu list buttons only performing one of their intended functions
