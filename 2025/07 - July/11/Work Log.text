@@ -1,2 +1,19 @@
-• 
+• Set up discord exclusives, and bypass with weapon/armor/accessory/spell generation in player side.
+• Set up changing, saving, gathering information for players Weapon Setup Page.
+• Set up information gathering, saving, and editing for protections
+• Transformed damage type dropdown for tolerences into just a static damage type, as i figured. it's just much easier that way. and less to save. 
+• Reorganized and gave companions discord exclusivity if need be
+• Created the Zyntrik Companion. An Eimon companion based on lightning.
+• Created the Thraskin Companion. An Eimon comp- oh god what the hell is that!?
+
+• Gonna be honest with ya'll. 
+In the middle of working on companions (got side tracked rigging up the UI with code...)
+i got side tracked again. setting up OBS to keyboard ghost inputs in a python script.
+So i don't have to hit hotkeys to show code, OBS, or anything else. 
+now it does it all automatically.
+was kinda required since i have to record or stream for work now but, yeah. spent my time doing that. Not sorry.
+
+It is past 12 so... Gonna throw out this repo update. ✌️
+
+•
 
