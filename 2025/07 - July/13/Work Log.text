@@ -1,2 +1,20 @@
-• 
+• Set up Companion Preset data input for player side.
+
+• Set up addition to inventory system, but restricted it to chest for simplicity. 
+
+• Added extra gold show text on GM shop so you can know how much gold you have after buying/selling because duh.
+
+• Setup Buying and Selling and prefabs scripts for the GM shop.
+
+• Set up the ENTIRETY of the Skill Checks UI
+
+• I made a neat Dice Rolling Animation for skill checks.
+
+• Finished the entire Skillcheck system with dice stacks, skill modifiers. bonus stacks for mastery, companion switching, using saved data from companions and a whole bunch else.
+
+• Finished the companions/player switcher for skill checks. 
+
+• Finished the auto save system for updating any and all stats/skills/masteries
+
+Video Dev Log: https://www.youtube.com/watch?v=i4PRR2pEwgE
 
