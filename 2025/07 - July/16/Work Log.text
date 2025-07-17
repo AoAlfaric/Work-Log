@@ -1,2 +1,8 @@
-• 
+• Fixed companion and weapons dropdown switching with a save bool. 
+• set up most of the CombatRolls page even for defending, weapons, and spells and dice rolls and....everything
+• added afflictions as an entire database to reference them individually.
+• used that individual affliction reference to update the rulebook and pull from that reference. 
+• idk. more stuff im' sure but i forget. evidently 68k worth of changes so yeah.
+
+Vod Link: https://www.youtube.com/watch?v=6kaD837_wjM
 
